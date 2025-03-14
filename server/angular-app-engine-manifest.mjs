@@ -1,6 +1,6 @@
 
 export default {
-  basePath: '/',
+  basePath: '/my-profile',
   supportedLocales: {
   "en-US": ""
 },
